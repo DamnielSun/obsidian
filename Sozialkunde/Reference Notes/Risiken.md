@@ -1,0 +1,6 @@
+- Krankheit
+- Feuer
+- Unfall
+- Haverie
+- Tod
+- etc
