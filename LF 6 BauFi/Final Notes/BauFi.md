@@ -1,14 +1,14 @@
 # Baufinanzierung Abschließen
 
-#### Wesen:
-	**Zweck**: 
-		- Kauf eines Wohnhauses, Eigentumswohnung
-		- Bau eines Hauses
-		- Ausbau, Umbau, Modernisierung eines Haus /Eigentumswohnung
-	**Mittel**:
-		- Baufinanzierungskredit: langfristig, Objekt- und Zweckgebunden, Gesichert durch Grundschulden (Grundpfandrecht)
+##### Wesen:
+Zweck:
+- Kauf eines Wohnhauses, Eigentumswohnung
+- Bau eines Hauses
+- Ausbau, Umbau, Modernisierung eines Haus /Eigentumswohnung
+Mittel:
+- Baufinanzierungskredit: langfristig, Objekt- und Zweckgebunden, Gesichert durch Grundschulden (Grundpfandrecht)
 
-Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zw. einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer.
+**Laut BGB** = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zw. einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer.
 
 ## Rechtliche Grundlagen
 
@@ -17,10 +17,8 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 - Pflicht zur Kreditwürdigkeitsprüfung
 - Produktempfehlung und Produktangebot
 - Verbot von Kopplungsgeschäften
-- Widerrufsinformation<u></u>
-
-
-## <span style="background:#ff4d4f"><u>*Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!*</u></span>
+- Widerrufsinformation
+## <span style="background:#ff4d4f"><u>**Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!**</u></span>
 
 ## Ablauf eines Beratungsgespräches
 
@@ -32,7 +30,7 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 6. Einzureichende Unterlagen
 7. Cross-Selling Ansätze
 
-## <span style="background:rgba(3, 135, 102, 0.2)">Kernstücke der Baufinanzierung</span>
+## Kernstücke der Baufinanzierung
 
 #### Realkredit
 - erstrangiges Grundpfandrecht<u></u>
@@ -123,7 +121,7 @@ Cross-Selling:
 
 ## Beleihungswert
 
-**Beleihungswert:** Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
+<font color="#e36c09">**Beleihungswert**</font>: Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
 Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschlag, Baunebenkosten sowie Erschließungskosten.
 
 **Beleihungsgrenze:** von diesem Beleihungswert können nach Pfandbriefgesetz max. 60% als Hypothek/Grundpfand aufgenommen werden. (Auf ganze 1000 abgerundet)
