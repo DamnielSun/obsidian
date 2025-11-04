@@ -114,3 +114,19 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 | Baugenehmigung                                                                                                                                                                                                                                                            | Bauamt                 |                                                                                                                                                                |
 | Exposé                                                                                                                                                                                                                                                                    | Gutachter/Makler       | Exposé/Nebenkostenaufstellung                                                                                                                                  |
 |                                                                                                                                                                                                                                                                           |                        |                                                                                                                                                                |
+Cross-Selling: 
+- Gebäudehaftpflicht
+- Bauherrenhaftpflicht (Freunde helfen beim Bau)
+- Bauleistungsversicherung
+- Risikolebensversicherung
+
+
+## Beleihungswert
+
+Beleihungswert: Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
+
+Verkehrswert: Aktueller Marktwert "Marktpreis"
+
+### Verfahren zur Beleihungswertermittlung
+
+**Sachwertverfahren** -> eigenutzen z.B. 1-2 Fam. Haus, Eigentumswohnung, Baugrundstück
