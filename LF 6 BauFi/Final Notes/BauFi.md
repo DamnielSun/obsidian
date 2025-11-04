@@ -130,3 +130,7 @@ Verkehrswert: Aktueller Marktwert "Marktpreis"
 ### Verfahren zur Beleihungswertermittlung
 
 **Sachwertverfahren** -> eigenutzen z.B. 1-2 Fam. Haus, Eigentumswohnung, Baugrundstück
+		a. Abschlagsverfahren: Sachwert = (Beleihungswert) / Bodenwert + Bauwert einschl. Außenanlagen
+		b. wenn ohne Wertschätzung, z.B. bei Altbauten für die keine Bauunterlagen vorliegen, oder erst eine vorgenommen werden muss
+**Ertragsverfahren** -> Renditeobjekte z.B. EFW, ETW, Mehrfam. Haus, Hotels, Gaststätten
+		- Mit hilfe diesen Verfahrens wird versucht anhand der zu erwartenden Erträge einen Bel-Wert abzuschätzen. Basis 
