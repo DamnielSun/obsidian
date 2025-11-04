@@ -129,7 +129,9 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 **Beleihungsgrenze:** von diesem Beleihungswert können nach Pfandbriefgesetz max. 60% als Hypothek/Grundpfand aufgenommen werden. (Auf ganze 1000 abgerundet)
 -> 40% Risikoabschlag
 
-Beleihungsauslauf - 
+Beleihungsauslauf: gibt den prozentualen Anteil der Fremdnfinanzierung über ein Immobiliendarlehen an Objektwert an
+
+Kredit * 100 / Beleihungswert = Beleihungsauslauf in %
 
 **Verkehrswert:** Aktueller Marktwert "Marktpreis"
 
