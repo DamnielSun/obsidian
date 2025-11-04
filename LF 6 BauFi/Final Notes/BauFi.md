@@ -60,13 +60,17 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 - gerechnet werden müssen sowohl Zinsen für Vorausdarlehen als auch Rate für Bausparer
 
 
-## KFW Kredit (Kreditanstalt für Wiederaufbau)
+### KFW Kredit (Kreditanstalt für Wiederaufbau)
 - unterstützt Erwerb und Bau von selbst genutzten Eigenheimen und Eigentumswohnungen in Deutschland
 - muss Wärmeeffizienter Bau sein
 	- dies muss von einem Baubegleiter abgenommen/bestätigt werden
-## Forward Darlehen
+### Forward Darlehen
 - kann bis zu 5 Jahre(60 Monate) vor vereinbarten Zinsbindungsfrist abgeschlossen werden
 - dabei werden Details und Konditionen für den Zeitpunkt nach der Zinsbindungsfrist bereits im Voraus neu Vereinbart
 -> Ziel ist die lange Planungssicherheit für den Darlehensnehmer
 -->durch die lange Forwardzeit wird ein kleiner Zinsaufschlag auf die Aktuellen Konditionen vorgenommen demnach liegt der vereinbarte Zinssatz über dem derzeit gültigen Marktzins
 
+## Pflichten gem. Wohnimmobil-Kredit Richlinie
+1. Darlehensnehmer VOR Vertragsabschluss v.v.I. über wesentliche Merkmale des Darlehens in Textform Übermitteln
+2. für v.v.I. das ausgefüllte ESIS-Merkblatt verwenden und dem Vertragsangebot beizufügen
+	- gesonderte Infos die nicht im ESIS-Merkblatt vorha
