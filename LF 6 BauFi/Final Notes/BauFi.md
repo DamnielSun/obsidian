@@ -73,4 +73,8 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 ## Pflichten gem. Wohnimmobil-Kredit Richlinie
 1. Darlehensnehmer VOR Vertragsabschluss v.v.I. über wesentliche Merkmale des Darlehens in Textform Übermitteln
 2. für v.v.I. das ausgefüllte ESIS-Merkblatt verwenden und dem Vertragsangebot beizufügen
-	- gesonderte Infos die nicht im ESIS-Merkblatt vorha
+	- gesonderte Infos die nicht im ESIS-Merkblatt vorhanden sind müssen in einem gesonderten Dokument überreicht werden
+3. wenn ein Angebot oder bindender Vorschlag für bestimmte Vertragsbestimmungen unterbreitet werden dann muss dem Darlehensnehmer ein Entwurf des Verbraucherdarlehensvertrags ausgehändigt werden
+4. ausreichende Erläuterung des Vertrages damit der Darlehensnehmer entscheiden kann ob dies seinen Vorstellungen und Ansprüchen gerecht wird
+5. Verbraucherdarlehen muss schriftlich abgeschlossen werden
+6. nach Abschluss des Vertrages  eine Abschrift  des Vertrages sowie wenn ein Zeitpunkt für Rückzahlung des Darlehens bestimmt ist, einen Tilgungsvorschlag zu verfügunge stellen
