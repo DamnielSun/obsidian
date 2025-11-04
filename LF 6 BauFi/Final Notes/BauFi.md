@@ -50,4 +50,15 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 ### weitere Kreditbausteine (zur Vorfinanzierung von Bausparverträgen)
 
 ### Zwischenfinanzierungskredit
-- nur für einen 
+- nur für einen <span style="background:rgba(240, 200, 0, 0.2)">zuteilungsreifen, aber noch nicht zugeteilten</span> Bausparvertrag
+- Festdarlehen in <span style="background:rgba(240, 200, 0, 0.2)">Höhe der Bausparsumme</span>
+- bis zur Tilgung werden <span style="background:rgba(240, 200, 0, 0.2)">nur die Zinsen</span> der ZwiFi gezahlt
+
+### Vorausdarlehen
+- für nicht voll eingezahlte Bausparverträge
+- werden mit Zuteilung getilgt
+- gerechnet werden müssen sowohl Zinsen für Vorausdarlehen als auch Rate für Bausparer
+
+
+## KFW Kredit (Kreditanstalt für Wiederaufbau)
+- unterstützt Erwerb und Bau von selbst genutzten Eigenheimen und Eigentumswohnungen in Deutschland
