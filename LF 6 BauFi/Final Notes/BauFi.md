@@ -85,6 +85,7 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 10. Berechnungsmethode für den Anspruch auf Vorfälligkeitsentschädigung im Darlehensvertrag benennen wenn vorhanden
 11. im Rahmen der v.v.I. mit deutlichem Hinweis darauf aufmerksam machen das das KI die Forderungen aus Dem Darlehensvertrag  ohne Zustimmung abtreten kann und somit das Vertragsverhältnis auf einen Dritten übertragen darf insofern nicht im Vertrag ausdrücklich ausgeschlossen
 
+## Unterlagen
 ### persönliche Unterlagen
 - Selbstauskunft über:
 	- Einnahmen, Ausgaben
@@ -102,3 +103,10 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 	- ggf. Lebensversicherungspolicen
 
 ### Objektunterlagen
+
+
+| Bau                                                                Kauf                                                                        | Woher?              | Eigentumswohnung                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------- |
+| Bautechnische Unterlagen:<br>Bauzeichnung, Baubeschreibung, Berechnung des umbauten Raums(Kubusberechnung m³), Wohn- und Nutzflächenberechnung | Architekt/Bauträger | Baubesprechung, Baupläne<br>Grundriss der Wohnung<br>Teilungserklärung |
+| Auszug aus dem Liegenschaftsbuch nebst Abzeichnung der Flurkarte (amtlicher Lageplan)                                                          | Katasteramt         | -<<-                                                                   |
+|                                                                                                                                                |                     |                                                                        |
