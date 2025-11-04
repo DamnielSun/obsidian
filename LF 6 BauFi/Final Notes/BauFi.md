@@ -17,9 +17,10 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 - Pflicht zur Kreditwürdigkeitsprüfung
 - Produktempfehlung und Produktangebot
 - Verbot von Kopplungsgeschäften
-- Widerrufsinformation
+- Widerrufsinformation<u></u>
 
-## <span style="background:#ff4d4f">!Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!</span>
+
+## <span style="background:#ff4d4f"><u>*Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!*</u></span>
 
 ## Ablauf eines Beratungsgespräches
 
@@ -27,14 +28,14 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 2. Finanzierungsbedarf berechnen
 3. Raten höhe ermitteln
 4. Haushaltsrechnung
-5. Grundpfand-rechtliche Sicherstellung des Kredites
+5. Grundpfand-rechtliche Sicherstellung des Kredites<u></u>
 6. Einzureichende Unterlagen
 7. Cross-Selling Ansätze
 
-## Kernstücke der Baufinanzierung
+## <span style="background:rgba(3, 135, 102, 0.2)">Kernstücke der Baufinanzierung</span>
 
 #### Realkredit
-- erstrangiges Grundpfandrecht
+- erstrangiges Grundpfandrecht<u></u>
 - bis zu 60% Beleihungsgrenze bezogen auf Beleihungswert (1-a-Darlehen)
 - >60% möglich als 1-b-Darlehen (gedeckter Personalkredit)
 	- zweitrangige Grundsicherung
@@ -43,4 +44,10 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 #### Bauspardarlehen
 - zweitrangiges Grundpfandrecht
 - 80% Beleihungsgrenze bezogen auf Beleihungswert
-- 
+- >80% möglich, bei selbst genutzten Wohnimmobilien sogar 100%
+- Laufzeit beträgt i.d.R. 10-11 Jahre
+
+### weitere Kreditbausteine (zur Vorfinanzierung von Bausparverträgen)
+
+### Zwischenfinanzierungskredit
+- nur für einen 
