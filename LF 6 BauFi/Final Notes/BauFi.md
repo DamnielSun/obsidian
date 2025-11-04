@@ -84,6 +84,7 @@ Mittel:
 11. im Rahmen der v.v.I. mit deutlichem Hinweis darauf aufmerksam machen das das KI die Forderungen aus Dem Darlehensvertrag  ohne Zustimmung abtreten kann und somit das Vertragsverhältnis auf einen Dritten übertragen darf insofern nicht im Vertrag ausdrücklich ausgeschlossen
 
 ## Unterlagen
+
 ### persönliche Unterlagen
 - Selbstauskunft über:
 	- Einnahmen, Ausgaben
@@ -100,8 +101,8 @@ Mittel:
 	- ggf. Nachweis Bausparvertrag
 	- ggf. Lebensversicherungspolicen
 
-### Objektunterlagen
 
+### Objektunterlagen
 
 | Bau                                            Kauf                                                                                                                                                                                                                       | Woher?                 | Eigentumswohnung                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,15 +122,15 @@ Cross-Selling:
 
 ## Beleihungswert
 
-<font color="#e36c09">**Beleihungswert**</font>: Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
+<font color="#e36c09">Beleihungswert:</font> Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
 Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschlag, Baunebenkosten sowie Erschließungskosten.
 
-**Beleihungsgrenze:** von diesem Beleihungswert können nach Pfandbriefgesetz max. 60% als Hypothek/Grundpfand aufgenommen werden. (Auf ganze 1000 abgerundet)
+<font color="#e36c09">Beleihungsgrenze:</font> von diesem Beleihungswert können nach Pfandbriefgesetz max. 60% als Hypothek/Grundpfand aufgenommen werden. (Auf ganze 1000 abgerundet)
 -> 40% Risikoabschlag
 
-Beleihungsauslauf: gibt den prozentualen Anteil der Fremdnfinanzierung über ein Immobiliendarlehen an Objektwert an
+<font color="#e36c09">Beleihungsauslauf:</font> gibt den prozentualen Anteil der Fremdnfinanzierung über ein Immobiliendarlehen an Objektwert an
 
-Kredit * 100 / Beleihungswert = Beleihungsauslauf in %
+*Kredit * 100 / Beleihungswert = Beleihungsauslauf in %*
 
 **Verkehrswert:** Aktueller Marktwert "Marktpreis"
 
