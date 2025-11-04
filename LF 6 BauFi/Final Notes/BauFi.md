@@ -83,4 +83,4 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 	- Angebote auf Geeignetheit Prüfen
 9. dem Darlehensnehmer mitteilen welche Informationen und Nachweise innerhalb welchen Zeitraums benötigt werden um eine ordnungsgemäße Kreditwürdigkeitsprüfung durchzuführen
 10. Berechnungsmethode für den Anspruch auf Vorfälligkeitsentschädigung im Darlehensvertrag benennen wenn vorhanden
-11. im Rahmen der v.v.I.
+11. im Rahmen der v.v.I. mit deutliche
