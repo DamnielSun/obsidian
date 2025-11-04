@@ -77,4 +77,9 @@ Laut BGB = Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensv
 3. wenn ein Angebot oder bindender Vorschlag für bestimmte Vertragsbestimmungen unterbreitet werden dann muss dem Darlehensnehmer ein Entwurf des Verbraucherdarlehensvertrags ausgehändigt werden
 4. ausreichende Erläuterung des Vertrages damit der Darlehensnehmer entscheiden kann ob dies seinen Vorstellungen und Ansprüchen gerecht wird
 5. Verbraucherdarlehen muss schriftlich abgeschlossen werden
-6. nach Abschluss des Vertrages  eine Abschrift  des Vertrages sowie wenn ein Zeitpunkt für Rückzahlung des Darlehens bestimmt ist, einen Tilgungsvorschlag zu verfügunge stellen
+6. nach Abschluss des Vertrages  eine Abschrift  des Vertrages sowie einen Tilgungs-vorschlag (wenn ein Zeitpunkt für Rückzahlung des Darlehens bestimmt ist) zur Verfügung stellen
+7. Information über evtl. Beratungsentgeldes vor Beratung
+8. vor Erbringung der Beratungsleistung über Bedarf sowie pers. und finanz. Situation erkundigen
+	- Angebote auf Geeignetheit Prüfen
+9. dem Darlehensnehmer mitteilen welche Informationen und Nachweise innerhalb welchen Zeitraums benötigt werden um eine ordnungsgemäße Kreditwürdigkeitsprüfung durchzuführen
+10. Berechnungsmethode
