@@ -123,9 +123,15 @@ Cross-Selling:
 
 ## Beleihungswert
 
-Beleihungswert: Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
+**Beleihungswert:** Abrechnung das Verwertungsrisikos (ungünstige Marktverhältnisse, Wertverlust durch Bebauung der Umgebung, Kosten für Zwangsversteigerung)
+Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschlag, Baunebenkosten sowie Erschließungskosten.
 
-Verkehrswert: Aktueller Marktwert "Marktpreis"
+**Beleihungsgrenze:** von diesem Beleihungswert können nach Pfandbriefgesetz max. 60% als Hypothek/Grundpfand aufgenommen werden. (Auf ganze 1000 abgerundet)
+-> 40% Risikoabschlag
+
+Beleihungsauslauf - 
+
+**Verkehrswert:** Aktueller Marktwert "Marktpreis"
 
 ### Verfahren zur Beleihungswertermittlung
 
@@ -133,4 +139,5 @@ Verkehrswert: Aktueller Marktwert "Marktpreis"
 		a. Abschlagsverfahren: Sachwert = (Beleihungswert) / Bodenwert + Bauwert einschl. Außenanlagen
 		b. wenn ohne Wertschätzung, z.B. bei Altbauten für die keine Bauunterlagen vorliegen, oder erst eine vorgenommen werden muss
 **Ertragsverfahren** -> Renditeobjekte z.B. EFW, ETW, Mehrfam. Haus, Hotels, Gaststätten
-		- Mit hilfe diesen Verfahrens wird versucht anhand der zu erwartenden Erträge einen Bel-Wert abzuschätzen. Basis 
+		- Mit hilfe diesen Verfahrens wird versucht anhand der zu erwartenden Erträge einen Bel-Wert abzuschätzen. Basis sind die am MArkt nachhaltig Erzielbaren Mietverträge
+**Vergl-Wert
