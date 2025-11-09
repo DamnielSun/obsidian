@@ -194,6 +194,7 @@ Arbeitsschritte:
 **Nachhaltig erzielbarer jährlicher Rohertrag**
 
 - Bewirtschaftungskosten
+
 ---
 
 = Nachhaltig erzielbarer Reinertrag
