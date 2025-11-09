@@ -145,13 +145,13 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 
 ### Anmuitätendarlehen
 
-| Jahr/Monat | Darlehen                          | Zins                                | +Tilgung                                                     | =Annuität |
-| ---------- | --------------------------------- | ----------------------------------- | ------------------------------------------------------------ | --------- |
-| 1          | 110.000                           | 338,25                              | 183,33                                                       | 521,58    |
-| 2          | 109.816,67                        | <font color="#00b050">337,69</font> | <font color="#ff0000">183,89</font>                          | 521,58    |
-| 3          | 109.632,78                        | <font color="#00b050">337.12</font> | <font color="#ff0000">184,46</font>                          | 521,58    |
-| 4          | 109.448,32                        | <font color="#00b050">336,55</font> | <font color="#ff0000">185,03</font>                          | 52158     |
-|            | <font color="#00b050">DOWN</font> | <font color="#00b050">DOWN</font>   | <font color="#ff0000">UP                             </font> | <font color="#ffc000">SAME      |</font>
+| Jahr/Monat | Darlehen                          | Zins                                | +Tilgung                                                     | =Annuität                  |         |
+| ---------- | --------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------- | ------- |
+| 1          | 110.000                           | 338,25                              | 183,33                                                       | 521,58                     |         |
+| 2          | 109.816,67                        | <font color="#00b050">337,69</font> | <font color="#ff0000">183,89</font>                          | 521,58                     |         |
+| 3          | 109.632,78                        | <font color="#00b050">337.12</font> | <font color="#ff0000">184,46</font>                          | 521,58                     |         |
+| 4          | 109.448,32                        | <font color="#00b050">336,55</font> | <font color="#ff0000">185,03</font>                          | 52158                      |         |
+|            | <font color="#00b050">DOWN</font> | <font color="#00b050">DOWN</font>   | <font color="#ff0000">UP                             </font> | <font color="#ffc000">SAME | </font> |
 
 <font color="#ffc000">Arbeitsschritte: </font>
 <font color="#ffc000">1.</font> monatliche Annuität ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 5,69% = x im Jahr -> /12</font>
