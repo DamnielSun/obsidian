@@ -18,7 +18,9 @@ Mittel:
 - Produktempfehlung und Produktangebot
 - Verbot von Kopplungsgeschäften
 - Widerrufsinformation
-## <span style="background:#ff4d4f"><u>**Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!**</u></span>
+> [!note]
+> Jeder Kreditantragssteller bekommt Pro Kredit eine v.v.I.!
+
 
 ## Ablauf eines Beratungsgespräches
 
