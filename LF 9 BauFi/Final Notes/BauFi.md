@@ -145,11 +145,16 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 
 ### Anmuitätendarlehen
 
+| Jahr/Monat | Darlehen   | Zins   | +Tilgung | =Annuität |
+| ---------- | ---------- | ------ | -------- | --------- |
+| 1          | 110.000    | 338,25 | 183,33   | 512,58    |
+| 2          | 109.816,67 | 337,69 | 183,89   | 512,58    |
+| 3          | 109.632,78 | 337.12 | 184,46   | 512,58    |
+| 4          | 109.448,32 | 336,55 | 185,03   | 512,58    |
+|            | DOWN       | DOWN   | UP       | SAME      |
 
-| Jahr/Monat | Darlehen | Zins   | +Tilgung | =Annuität |
-| ---------- | -------- | ------ | -------- | --------- |
-| 1          | 110.000  | 338,25 | 183,33   | 512,58    |
-| 2          |          |        |          |           |
-| 3          |          |        |          |           |
-| 4          |          |        |          |           |
-|            |          |        |          |           |
+Arbeitsschritte: 
+1. monatliche Annuität ermitteln und als Konstante vortragen : 110.000 * 5,69% = x im Jahr -> /12
+2. Zins ermitteln
+3. Tilgung ermittel
+4. Restdarlehen ermitteln
