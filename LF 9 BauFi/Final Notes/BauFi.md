@@ -142,3 +142,14 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 **Ertragsverfahren** -> Renditeobjekte z.B. EFW, ETW, Mehrfam. Haus, Hotels, Gaststätten
 		- Mit hilfe diesen Verfahrens wird versucht anhand der zu erwartenden Erträge einen Bel-Wert abzuschätzen. Basis sind die am MArkt nachhaltig Erzielbaren Mietverträge
 **Vergl-Wert
+
+### Anmuitätendarlehen
+
+
+| Jahr/Monat | Darlehen | Zins   | +Tilgung | =Annuität |
+| ---------- | -------- | ------ | -------- | --------- |
+| 1          | 110.000  | 338,25 | 183,33   | 512,58    |
+| 2          |          |        |          |           |
+| 3          |          |        |          |           |
+| 4          |          |        |          |           |
+|            |          |        |          |           |
