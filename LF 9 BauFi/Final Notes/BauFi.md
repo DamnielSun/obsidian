@@ -145,16 +145,33 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 
 ### Anmuitätendarlehen
 
-| Jahr/Monat | Darlehen   | Zins   | +Tilgung | =Annuität |
-| ---------- | ---------- | ------ | -------- | --------- |
-| 1          | 110.000    | 338,25 | 183,33   | 512,58    |
-| 2          | 109.816,67 | 337,69 | 183,89   | 512,58    |
-| 3          | 109.632,78 | 337.12 | 184,46   | 512,58    |
-| 4          | 109.448,32 | 336,55 | 185,03   | 512,58    |
-|            | DOWN       | DOWN   | UP       | SAME      |
+| Jahr/Monat | Darlehen   | Zins                                | +Tilgung                            | =Annuität |
+| ---------- | ---------- | ----------------------------------- | ----------------------------------- | --------- |
+| 1          | 110.000    | 338,25                              | 183,33                              | 512,58    |
+| 2          | 109.816,67 | <font color="#00b050">337,69</font> | <font color="#ff0000">183,89</font> | 512,58    |
+| 3          | 109.632,78 | <font color="#00b050">337.12</font> | <font color="#ff0000">184,46</font> | 512,58    |
+| 4          | 109.448,32 | <font color="#00b050">336,55</font> | <font color="#ff0000">185,03</font> | 512,58    |
+|            | DOWN       | DOWN                                | UP                                  | SAME      |
 
 Arbeitsschritte: 
-1. monatliche Annuität ermitteln und als Konstante vortragen : 110.000 * 5,69% = x im Jahr -> /12
-2. Zins ermitteln
-3. Tilgung ermittel
-4. Restdarlehen ermitteln
+1. monatliche Annuität ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 5,69% = x im Jahr -> /12</font>
+2. Zins ermitteln : <font color="#00b050">110.000 * 3,69% = x im Jahr -> /12</font>
+3. Tilgung ermittel : <font color="#00b050">512,58-338,25=183,33</font>
+4. Restdarlehen ermitteln : <font color="#00b050">110.000 - 183,33 = 109.816,67</font>
+
+
+### Abzahlungsdarlehen
+
+| Jahr/Monat | Darlehen   | Zins   | +Tilgung | =monatl. Leistung |
+| ---------- | ---------- | ------ | -------- | ----------------- |
+| 1          | 110.000    | 338,25 | 183,33   | 512,58            |
+| 2          | 109.816,67 | 337,69 | 183,89   | 512,58            |
+| 3          | 109.632,78 | 337.12 | 184,46   | 512,58            |
+| 4          | 109.448,32 | 336,55 | 185,03   | 512,58            |
+|            | DOWN       | DOWN   | UP       | SAME              |
+
+Arbeitsschritte: 
+1. monatliche Annuität ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 5,69% = x im Jahr -> /12</font>
+2. Zins ermitteln : <font color="#00b050">110.000 * 3,69% = x im Jahr -> /12</font>
+3. Tilgung ermittel : <font color="#00b050">512,58-338,25=183,33</font>
+4. Restdarlehen ermitteln : <font color="#00b050">110.000 - 183,33 = 109.816,67</font>
