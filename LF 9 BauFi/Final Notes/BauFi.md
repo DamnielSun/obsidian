@@ -172,7 +172,7 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 |            |                                   |                              |                                   |                                     |
 
 Arbeitsschritte: 
-1. monatliche Tilgung ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 2% = x im Jahr -> /12</font>
+1. monatliche Tilgung ermitteln und als Konstante vortragen : $110.000 * 2% = x im Jahr -> /12$
 2. Zins ermitteln : <font color="#00b050">110.000 * 3,69% = x im Jahr -> /12</font>
 3. monatl. Leistung ermitteln : <font color="#00b050">338,25+183,33=512,58</font>
 4. Restdarlehen ermitteln : <font color="#00b050">110.000 - 183,33 = 109.816,67</font>
@@ -188,3 +188,6 @@ Arbeitsschritte:
 | 4          | 110.000                           | 338,25                            | /        | 338,25                            |
 |            | <font color="#ffc000">SAME</font> | <font color="#ffc000">SAME</font> | NONE     | <font color="#ffc000">SAME</font> |
 |            |                                   |                                   |          |                                   |
+
+
+### Beleihungswertermittlung
