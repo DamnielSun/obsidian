@@ -156,7 +156,7 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 <font color="#ffc000">Arbeitsschritte: </font>
 <font color="#ffc000">1.</font> monatliche Annuität ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 5,69% = x im Jahr -> /12</font>
 2. Zins ermitteln : <font color="#00b050">110.000 * 3,69% = x im Jahr -> /12</font>
-3. Tilgung ermittel : <font color="#00b050">512,58-338,25=183,33</font>
+3. Tilgung ermitteln : <font color="#00b050">512,58-338,25=183,33</font>
 4. Restdarlehen ermitteln : <font color="#00b050">110.000 - 183,33 = 109.816,67</font>
 
 
@@ -174,5 +174,17 @@ Setzt sich aus Boden- und Sachwert zusammen. Diese beinhalten Sicherheitsabschla
 Arbeitsschritte: 
 1. monatliche Tilgung ermitteln und als Konstante vortragen : <font color="#00b050">110.000 * 2% = x im Jahr -> /12</font>
 2. Zins ermitteln : <font color="#00b050">110.000 * 3,69% = x im Jahr -> /12</font>
-3. Tilgung ermittel : <font color="#00b050">512,58-338,25=183,33</font>
+3. monatl. Leistung ermitteln : <font color="#00b050">338,25+183,33=512,58</font>
 4. Restdarlehen ermitteln : <font color="#00b050">110.000 - 183,33 = 109.816,67</font>
+
+
+### Festdarlehen
+
+| Jahr/Monat | Darlehen                          | Zins                              | +Tilgung | =monatl. Leistung                 |
+| ---------- | --------------------------------- | --------------------------------- | -------- | --------------------------------- |
+| 1          | 110.000                           | 338,25                            | /        | 338,25                            |
+| 2          | 110.000                           | 338,25                            | /        | 338,25                            |
+| 3          | 110.000                           | 338,25                            | /        | 338,25                            |
+| 4          | 110.000                           | 338,25                            | /        | 338,25                            |
+|            | <font color="#ffc000">SAME</font> | <font color="#ffc000">SAME</font> | NONE     | <font color="#ffc000">SAME</font> |
+|            |                                   |                                   |          |                                   |
