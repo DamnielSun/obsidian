@@ -191,3 +191,17 @@ Arbeitsschritte:
 
 
 ### Beleihungswertermittlung
+**Nachhaltig erzielbarer jährlicher Rohertrag**
+
+- Bewirtschaftungskosten
+---
+
+= Nachhaltig erzielbarer Reinertrag
+
+- angemessene Bodenwertverzinsung
+
+---
+
+= um Verzinsung vermindeter jährlicher Reinertrag
+
+* Vervielfältiger
